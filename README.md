@@ -5,6 +5,6 @@ Landing page sobre parque aquático Alegria, deverá ser uma página responsiva 
 ### Como contribuir para o projeto
 
 - Realize um fork do projeto
-- Fazer git clone git@github.com:fabriciocovalesci/LandingPage.git 
+- Fazer git clone 
 - Realize as modificações
 - Faz pull request
